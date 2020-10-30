@@ -42,7 +42,8 @@ Display block creates blocks that sit beside one another.
 3. What are the 4 areas of the box model?
 The four areas are Margin, Border, Padding, and content
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
-It runs perndicular to the main axis
+It runs perpindicular to the main axis on the cross axis
+
 
 5. Explain why git is valuable to a team of developers.
 Git is useful because many developers can work on a project at once and push saves to a repository that will catalog them if need to revert to pervious save.
